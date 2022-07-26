@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa1827e3-354b-4570-89cf-480502fbb45a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Example/iPicUploader.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Example/iPicUploader.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/iPicUploaderExample/MainWindowController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Example/iPicUploaderExample/MainWindowController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/iPicUploaderExample/iPicImageView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Example/iPicUploaderExample/iPicImageView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Classes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Classes/iPicImage.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Classes/iPicImageHost.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Classes/iPicPasteboardHelper.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Classes/iPicUploadHelper.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Classes/iPicUploadResult.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPicUploader/Classes/iPicUploader.swift" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="AppCode" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.2" />
+  </component>
+  <component name="ProjectId" id="2CQiFgoRjiqcDtL4glk6dy2TO56" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/zaxus/Documents/FTCGIT/mac/iPicUploader",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa1827e3-354b-4570-89cf-480502fbb45a" name="Changes" comment="" />
+      <created>1658741107286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658741107286</updated>
+      <workItem from="1658741109507" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
